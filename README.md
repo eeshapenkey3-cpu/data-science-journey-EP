@@ -9,6 +9,6 @@ Applying for a Technology & Transformation Summer Internship at Deloitte.
 - **Industry Awareness:** Following FT & Deloitte Ireland Insights.
 
 ## 📂 Project Navigation
-- [Weekly Finance Terms](./Finance-Dictionary/terms.md)
-- [Technical Troubleshooting Log](./Technical-Log/SQL-fixes.md)
-- [Industry Reading Summaries](./Industry-Insights/summaries.md)
+- [Weekly Finance Terms](./finance-dictionary/terms.md)
+- [Technical Troubleshooting Log](./technical-log/SQL-fixes.md)
+- [Industry Reading Summaries](./industry-insights/summaries.md)
