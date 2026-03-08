@@ -12,4 +12,4 @@ Companies are eager to use AI, but struggle with unprecendented costs of compute
 * **ESG(Environmental, Social and Governance)**: Large companies now need to report their carbon footprint, so if their AI uses too much eletricity, their stock prices could go down.
 
 ### connection to my SQL project
-This article highlights why data optimization (cleaning and structing data to maximize efficiency) matters. If I can write efficient SQL queries that use less compute time (power and time), I am helping a company save money on their cloud bill.
+This article highlights why data optimization (cleaning and structuring data to maximize efficiency) matters. If I can write efficient SQL queries that use less compute time (power and time), I am helping a company save money on their cloud bill.
