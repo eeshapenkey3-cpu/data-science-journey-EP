@@ -1,6 +1,6 @@
 # The AI infrastructure reckoning: Optimizing compute strategy in the age of inference economics
 ### march - stock market trend analysis MySQL project 
-**date:** 08-03-2026
+**date:** 08-03-2026  
 **topic:** AI infrastructure and inference economonics
 
 ### summary
