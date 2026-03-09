@@ -8,7 +8,3 @@ Applying for a Technology & Transformation Summer Internship at Deloitte.
 - **Financial Literacy:** Learning 1 KPI per week.
 - **Industry Awareness:** Following FT & Deloitte Ireland Insights.
 
-## 📂 Project Navigation
-- [Weekly Finance Terms](./finance-dictionary/terms.md)
-- [Technical Troubleshooting Log](./technical-log/SQL-fixes.md)
-- [Industry Reading Summaries](./industry-insights/summaries.md)
