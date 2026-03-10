@@ -1,10 +1,12 @@
-# My Professional Development Journey 🚀
+# My Professional Development Journey 
 
-## 🎯 Current Goal
+## Current Goal
 Applying for a Technology & Transformation Summer Internship at Deloitte.
 
-## 📈 Key Progress
+##  Key Progress
 - **SQL Skills:** Completed S&P 500 ETL pipeline.
 - **Financial Literacy:** Learning 1 KPI per week.
-- **Industry Awareness:** Following FT & Deloitte Ireland Insights.
+- **Industry Awareness:** Following FT & Deloitte Ireland Insights.  
+
+
 
