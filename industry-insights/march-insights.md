@@ -1,7 +1,5 @@
-# The AI infrastructure reckoning: Optimizing compute strategy in the age of inference economics
-### march - stock market trend analysis MySQL project 
-**date:** 08-03-2026  
-**topic:** AI infrastructure and inference economonics
+ *08-03-2026*  
+### topic: The AI infrastructure reckoning: Optimizing compute strategy in the age of inference economics
 
 ### summary
 Companies are eager to use AI, but struggle with unprecendented costs of compute power. This is a massive shift from training models that students/employees use to models that manage the "inference of economics" (using AI daily for projects/ enterprise-level engines using a lot of data).
