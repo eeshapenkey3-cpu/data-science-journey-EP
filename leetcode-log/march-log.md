@@ -17,7 +17,8 @@ SELECT
 FROM Sales AS s
 JOIN Product AS p 
   ON s.product_id = p.product_id;
-```  
+```
+
 
 ## *11-03-2026*
 
@@ -63,3 +64,20 @@ class Solution {
     }
 }
 ```
+## *12-03-2026*
+
+**Problem 584: Find Customer Referee**
+
+**problem**
+Find the names of customers who were **not** referred by the customer with `id = 2`. 
+
+**solution**
+```sql
+-- Selecting names where the referee is either not ID 2 OR is empty (NULL)
+SELECT 
+    name
+FROM 
+    Customer
+WHERE 
+    referee_id != 2 
+    OR referee_id IS NULL;
