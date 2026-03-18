@@ -1,5 +1,78 @@
-# March LeetCode Log 2026
+# March LeetCode Log 2026  
 
+## *02-03-2026*  
+
+**Problem 1: Two Sum**:  
+
+**problem:** Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  
+
+**solution:**
+``` java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.length; i++){
+            for (int j = i + 1; j < nums.length; j++ ){
+                if(nums[i] + nums[j] == target){
+                    return new int[] {i, j};
+                }
+            }
+        }
+        return new int[]{};
+    }
+}
+```
+## *04-03-2026*  
+
+**Problem 175: Combine Two Tables**  
+
+**problem:**
+Write a solution to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.  
+
+**solution:** 
+```
+sql
+SELECT firstName, lastName, city, state FROM Person
+LEFT JOIN Address 
+ON Person.personID = Address.personID
+
+```
+## *06-03-2026*  
+
+**Problem 182: Duplicate Emails**  
+
+**problem:** Write a solution to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL.  
+
+**solution**:
+```
+sql
+SELECT email AS Email FROM Person 
+GROUP BY email
+HAVING COUNT(email) > 1
+```
+## *08-03-2026*  
+
+**Problem 627: Swap Sex of Employees**  
+
+**problem:** Write a solution to swap all 'f' and 'm' values (i.e., change all 'f' values to 'm' and vice versa) with a single update statement and no intermediate temporary tables.  
+
+**solution**: 
+```
+UPDATE Salary set sex = if( sex = 'f', 'm', 'f'); 
+```
+## *09-03-2026*  
+
+**Problem 1667: Fix Names in a Table**
+
+**problem**:
+Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase. Return the result table ordered by `user_id`.
+
+**solution**:
+```sql
+SELECT user_id,
+CONCAT(UPPER(SUBSTRING(name, 1, 1)), LOWER(SUBSTRING(name, 2))) AS name
+FROM Users
+ORDER BY user_id
+```
 ## *10-03-2026*
 
 **Problem 1068: Product Sales Analysis I**  
@@ -64,20 +137,51 @@ class Solution {
     }
 }
 ```
-## *12-03-2026*
+## *12-03-2026*  
 
-**Problem 584: Find Customer Referee**
+**Problem 584: Find Customer Referee**  
 
-**problem**
-Find the names of customers who were **not** referred by the customer with `id = 2`. 
+**problem:** Find the names of the customer that are not referred by the customer with id = 2.  
+**solution**:
+```
+# Write your MySQL query statement below
+SELECT name FROM Customer
+WHERE referee_id IS NULL
+OR referee_id != 2;
+```
+## *16-03-2026*  
 
-**solution**
-```sql
--- Selecting names where the referee is either not ID 2 OR is empty (NULL)
+**Problem 181: Employees Earning More Than Their Managers**  
+
+**problem**: Write a solution to find the employees who earn more than their managers.  
+
+**solution**:
+```
 SELECT 
-    name
+    e.name AS Employee
 FROM 
-    Customer
+    Employee AS e
+JOIN 
+    Employee AS m 
+    ON e.managerId = m.id
 WHERE 
-    referee_id != 2 
-    OR referee_id IS NULL;
+    e.salary > m.salary;
+```  
+
+## *17-03-2026*
+
+**Problem 197: Rising Temperature**
+
+**problem**:
+Write a solution to find all dates' Id with higher temperatures compared to its previous dates (yesterday).
+
+**solution**:
+```sql
+# Write your MySQL query statement below
+SELECT 
+    w.id 
+FROM Weather AS e
+INNER JOIN Weather AS w
+    ON DATEDIFF(w.recordDate, e.recordDate) = 1
+WHERE w.temperature > e.temperature;
+```
