@@ -185,6 +185,38 @@ INNER JOIN Weather AS w
     ON DATEDIFF(w.recordDate, e.recordDate) = 1
 WHERE w.temperature > e.temperature;
 ```
+## *18-03-2026*  
+
+**Problem 196: Delete Duplicate Emails**  
+
+**problem**:  
+Write a solution to delete all duplicate email entries in a table named Person, keeping only unique emails based on its smallest id. (Note: write a DELETE statement and not a SELECT one.)  
+
+**solution**:  
+```
+DELETE FROM Person 
+WHERE id NOT IN (
+    SELECT * FROM (
+        SELECT MIN(id) FROM Person GROUP BY email
+    ) AS temp
+);
+```
+
+## *20-03-2026*  
+
+**Problem 183: Customers Who Never Order**  
+
+**problem**:  
+Suppose that a website contains two tables, the Customers table and the Orders table. Write a solution to find all customers who never order anything.  
+
+**solution**:  
+```
+SELECT c.name AS Customers
+FROM Customers AS c
+LEFT JOIN Orders AS o
+ON c.id = o.customerId
+WHERE o.id IS NULL;
+```
 
 ## *22-03-2026*  
 
