@@ -238,4 +238,15 @@ FROM (
     JOIN Department d ON e.departmentId = d.id
 ) as temp_table
 WHERE rnk <= 3;
-```  
+```
+## *24-03-2026*  
+
+**Problem 595: Big Countries**  
+
+**problem**: A country is big if it has an area of at least three million (i.e., 3,000,000), or it has a population of at least twenty-five million (i.e., 25,000,000). Write a solution to find the name, population, and area of the big countries.  
+
+**solution**: 
+```
+SELECT name, population, area FROM World
+WHERE area >= 3000000 OR population >= 25000000;
+```
