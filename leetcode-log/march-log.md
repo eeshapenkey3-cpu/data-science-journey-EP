@@ -239,6 +239,20 @@ FROM (
 ) as temp_table
 WHERE rnk <= 3;
 ```
+## *23-03-2026*  
+
+**Problem 577: Employee Bonus**  
+
+**problem**: Write a solution to report the name and bonus amount of each employee with a bonus less than 1000. If an employee does not have a bonus, their name should still be reported, but with a null or empty bonus value. Return the result table in any order.  
+
+**solution**: 
+```
+SELECT name, bonus FROM Employee AS e
+LEFT JOIN BONUS AS b 
+ON b.empId = e.empId
+WHERE bonus < 1000 OR
+bonus IS null;
+```
 ## *24-03-2026*  
 
 **Problem 595: Big Countries**  
