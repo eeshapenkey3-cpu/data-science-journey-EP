@@ -20,4 +20,4 @@ Today, companies are staying private much longer. This creates two primary issue
 ## **29-03-2026 | Price is now the main ingredient in the office lunch slop bowl**  
 * Prices on food is increasing to balance the increasing costs of ingredients and labour. Fast food companies only seems to be surviving from loyalty or indifference.
 * reported a 13 per cent drop in quarterly footfall, year on year.
-* to absorb rising costs without losing customers chains use data analytics to test Price Elasticity (e.g: How high can we raise the price of a chicken bowl before people stop buying it?)
+* to absorb rising costs without losing customers chains use data analytics to test Price Elasticity (e.g: How high can we raise the price of a chicken bowl before people stop buying it?) by SQL databases.
