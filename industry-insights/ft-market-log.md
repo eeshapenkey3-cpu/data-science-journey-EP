@@ -17,3 +17,7 @@ Today, companies are staying private much longer. This creates two primary issue
 
 - **Access Disparity**: Massive value creation is happening within "Unlisted Equity" (e.g., SpaceX, Stripe). Since these are not public stocks, they are traditionally reserved for institutional investors and high-net-worth individuals, leaving the public "off-limits."
 - **The Valuation Gap**: In public markets, prices are set by constant trading. In private markets, valuations are infrequent and subjective. As apps like Robinhood attempt to offer these private assets to the public, investors face the risk of buying in at a price that may not reflect the actual underlying value, as there is no transparent "ticker" to verify it.
+## **29-03-2026 | Price is now the main ingredient in the office lunch slop bowl**  
+* Prices on food is increasing to balance the increasing costs of ingredients and labour. Fast food companies only seems to be surviving from loyalty or indifference.
+* reported a 13 per cent drop in quarterly footfall, year on year.
+* to absorb rising costs without losing customers chains use data analytics to test Price Elasticity (e.g: How high can we raise the price of a chicken bowl before people stop buying it?)
