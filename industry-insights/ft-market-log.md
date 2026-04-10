@@ -21,3 +21,7 @@ Today, companies are staying private much longer. This creates two primary issue
 * Prices on food is increasing to balance the increasing costs of ingredients and labour. Fast food companies only seems to be surviving from loyalty or indifference.
 * reported a 13 per cent drop in quarterly footfall, year on year.
 * to absorb rising costs without losing customers chains use data analytics to test Price Elasticity (e.g: How high can we raise the price of a chicken bowl before people stop buying it?) by SQL databases.
+## **10-04-2026 | boring stocks are still beating the heard**  
+* top performers of the XFT index are under-the-radar companies, who are listed in London but its operations lie elsewhere like Mexico. They are not highly volatile, but slow but steady, mundane growth. Despite the average rise, investors should still be wary as relatively dull companies can still perform poorly.
+*  XFT index has outperformed the wider FTSE 100 over one-, three- and five-year time horizons.
+*  SQL can be used to add new trading records into a database so as to ensure that the latest trades, stock prices and market movements have been included in the system.
