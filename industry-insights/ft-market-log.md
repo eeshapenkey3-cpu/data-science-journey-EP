@@ -29,3 +29,5 @@ Today, companies are staying private much longer. This creates two primary issue
 *  UK northern rock suffered a run that didn't end until the government announced 100% guarantee, so when Dimon of JP Morgan started the idea of raising the protection insurance amount per customer, regulations and supervision is considered more important. These regulations reduce the risk that banks fall in the first place. The theory is by removing the scenario of bank failing, customers are less likely to panic withdraw their money.
 *  5 per cent of everything over the $250,000 threshold e.g. Total Amount: $1,000,000 Amount over threshold: $1,000,000 - $250,000 = $750,000; Fee to pay: $750,000 x 0.05 = $37,500
 *  SQL is used in predictive analysis to identify when banks might fail by extracting, cleaning, and structuring massive volumes of historical financial data to feed into machine learning models.
+## **13-04-2026 | Trust fund battle shows the limits of the UK’s retail investing culture**
+* 
