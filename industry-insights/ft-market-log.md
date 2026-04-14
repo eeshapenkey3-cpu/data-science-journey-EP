@@ -33,3 +33,7 @@ Today, companies are staying private much longer. This creates two primary issue
 * Edinburgh Worldwide (EWI) is asking its many small investors to vote for a plan to buy back their shares to stop a takeover attempt by an activist investor. While the deal offers a good payout, it is being made difficult by complicated voting hurdles and the fund's valuable stake in SpaceX.
 * Weinstein already holding a 30 per cent stake in the fund
 * use SQL to find their shareholders in the database and identify who needs to be contacted.
+## **14-0402026 | Goldman Sachs retains knack for spinning anxiety into gold**
+* Goldman Sachs has reported its best quarterly earnings in five years despite AI-inspired stock routs, the war in Iran and private credit. CEO David Solomon has successfully shifted the firm toward more "durable" revenue streams—like wealth management and private credit—convincing investors that the bank can turn market chaos into predictable, high-value profit.
+* Goldman reported its best quarterly earnings in five years on Monday, with stock-trading income that, at $5.3bn, beat its previous record by $1bn
+* SQL is used to analyze millions of trades to find where these spreads are fattest during "wonky" market moves
