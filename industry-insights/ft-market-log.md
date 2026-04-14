@@ -30,4 +30,6 @@ Today, companies are staying private much longer. This creates two primary issue
 *  5 per cent of everything over the $250,000 threshold e.g. Total Amount: $1,000,000 Amount over threshold: $1,000,000 - $250,000 = $750,000; Fee to pay: $750,000 x 0.05 = $37,500
 *  SQL is used in predictive analysis to identify when banks might fail by extracting, cleaning, and structuring massive volumes of historical financial data to feed into machine learning models.
 ## **13-04-2026 | Trust fund battle shows the limits of the UK’s retail investing culture**
-* 
+* Edinburgh Worldwide (EWI) is asking its many small investors to vote for a plan to buy back their shares to stop a takeover attempt by an activist investor. While the deal offers a good payout, it is being made difficult by complicated voting hurdles and the fund's valuable stake in SpaceX.
+* Weinstein already holding a 30 per cent stake in the fund
+* use SQL to find their shareholders in the database and identify who needs to be contacted.
