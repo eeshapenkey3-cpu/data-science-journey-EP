@@ -14,3 +14,11 @@
 * **brokers:** person who buys/sells for others
 * **floating:** temporary gap in time between when money leaves one account and when it actually arrives in another. For the gap, both people/places see that money in each account. Temporary "limbo" money
 * **cashed out:** converting assets, investments to money
+* **equity:** represents ownership in an asset or company
+* **stray tax benefit:** government-allowed reduction in tax 
+* **return on equity:** how efficiently a company uses investors' money to generate profit
+* **"spread" between buyers and sellers:** difference between the highest price a buyer will pay (bid) and the lowest price a seller will accept (ask)
+* **fixed income markets:** financial marketplaces where investors buy and sell "loans" made to governments or companies. provide regular, predictable interest payments and return the original loan amount at a specific date (maturity).
+* **fixed income traders:** financial professionals who buy and sell debt securities—mainly bonds—that pay a regular, set interest amount
+* **revenue:** total amount of money a business brings in from selling goods or services before any expenses are deducted
+* **private credit:** lending money to companies by non-bank lenders (like private investment funds) rather than traditional banks.
