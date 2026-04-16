@@ -22,12 +22,12 @@
 * **fixed income traders:** financial professionals who buy and sell debt securities—mainly bonds—that pay a regular, set interest amount
 * **revenue:** total amount of money a business brings in from selling goods or services before any expenses are deducted
 * **private credit:** lending money to companies by non-bank lenders (like private investment funds) rather than traditional banks.
-* **BDC:** 
-* **net asset value:** 
+* **BDC:** assist small and middle-market businesses in obtaining debt and equity capital.
+* **net asset value:** the price per share or unit of a mutual fund or ETF, calculated by taking the total value of all securities held (assets) and subtracting all fees and debt (liabilities), then dividing by the number of shares. It acts as the "true" market value for buying or selling fund shares
 * **NAV:** 
-* **sell-off:**
-* **capitalise:**
+* **sell-off:**rapid, high-volume sale of assets, stocks, or inventory, often at reduced prices, to generate cash or dispose of unwanted items
+* **capitalise:**to record a cost as a long-term asset on the balance sheet rather than treating it as an immediate expense on the income statement. Example: Buying a $10,000 machine that lasts 5 years. Instead of reporting a $10,000 expense this year, it is recorded as an asset and expense $2,000 per year for 5 years.
 * **private vehicles:**
-* **inflows:**
+* **inflows:**total cash and cash equivalents entering a business during a specific period
 * **redemptions:**
 
