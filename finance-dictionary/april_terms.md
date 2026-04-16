@@ -22,3 +22,12 @@
 * **fixed income traders:** financial professionals who buy and sell debt securities—mainly bonds—that pay a regular, set interest amount
 * **revenue:** total amount of money a business brings in from selling goods or services before any expenses are deducted
 * **private credit:** lending money to companies by non-bank lenders (like private investment funds) rather than traditional banks.
+* **BDC:** 
+* **net asset value:** 
+* **NAV:** 
+* **sell-off:**
+* **capitalise:**
+* **private vehicles:**
+* **inflows:**
+* **redemptions:**
+
