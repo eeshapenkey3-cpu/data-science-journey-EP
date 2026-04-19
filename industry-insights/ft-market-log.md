@@ -17,6 +17,9 @@ Today, companies are staying private much longer. This creates two primary issue
 
 - **Access Disparity**: Massive value creation is happening within "Unlisted Equity" (e.g., SpaceX, Stripe). Since these are not public stocks, they are traditionally reserved for institutional investors and high-net-worth individuals, leaving the public "off-limits."
 - **The Valuation Gap**: In public markets, prices are set by constant trading. In private markets, valuations are infrequent and subjective. As apps like Robinhood attempt to offer these private assets to the public, investors face the risk of buying in at a price that may not reflect the actual underlying value, as there is no transparent "ticker" to verify it.
+## **24-03-2026 | Uber fights to stay in the robotaxi race**
+* Alphabets waymo and Tesla provide a fleet of robocabs so will uber a human driver dominated company go obsolete? Waymo completes more than 400,000 weekly journeys and earlier this year they got 110 bn. Uber quickly responded by expanding a partnership with nvidia and agreed to invest in electric truck maker rivian and buy lots of electric suvs. Its stock is still trading higher than its three year average. Robotaxis will be more expensive and also gain the trust of customers. Until robotaxis reach mass adoption uber has time build its own operations and support companies like uk based wayve that makes software that can be adapted by carmakers. Uber could be valuable. 
+
 ## **29-03-2026 | Price is now the main ingredient in the office lunch slop bowl**  
 * Prices on food is increasing to balance the increasing costs of ingredients and labour. Fast food companies only seems to be surviving from loyalty or indifference.
 * reported a 13 per cent drop in quarterly footfall, year on year.
@@ -38,4 +41,6 @@ Today, companies are staying private much longer. This creates two primary issue
 * Goldman reported its best quarterly earnings in five years on Monday, with stock-trading income that, at $5.3bn, beat its previous record by $1bn
 * SQL is used to analyze millions of trades to find where these spreads are fattest during "wonky" market moves
 ## **16-04-2026 | it's time for private credit's speing cleaning**
+* 
+## **19-04-2026 | wealth advisors made more than $2bn from private capital fees**
 * 
