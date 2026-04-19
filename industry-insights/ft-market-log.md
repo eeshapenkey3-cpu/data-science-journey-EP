@@ -43,4 +43,6 @@ Today, companies are staying private much longer. This creates two primary issue
 ## **16-04-2026 | it's time for private credit's speing cleaning**
 * 
 ## **19-04-2026 | wealth advisors made more than $2bn from private capital fees**
-* 
+* wealth advisers banks and independent brokerages generated billions of dollars in fees. Service fees, which pays the adviser for managing and answering questions for the clients account. even though some wire houses charge heftily, they still have higher annual returns comparing to others. for example Blackstone’s BREIT and BCRED funds, along with peers like Blue Owl and Ares, show a clear performance gap where higher-commission share classes yield significantly lower net returns for investors.
+* Placement fees — payable to big brokerages for the privilege of having their funds offered — can be worth 0.5 per cent of a client’s initial investment on top, though some funds cap the combined fees at 0.85 per cent.
+* SQL wouls be used here to calculate the performance gap
