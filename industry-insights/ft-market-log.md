@@ -1,14 +1,6 @@
 *10-03-26*
 
 **Robinhood brings private markets’ valuation problem to the masses**  
-- **private market**: 
-- **Equity**: A claim of ownership in a business entity.
-- **stock**: A specific type of security that signifies ownership in a corporation. While "equity" is the broad concept of ownership, "stock" refers to the actual shares issued and traded on a market.  
-- **Closed end fund**: A public investment company that raises a fixed amount of capital. Unlike mutual funds, CEFs issue a set number of shares that trade on an exchange like a stock; they do not issue or redeem shares daily.
-- **Venture capital (VC)**: A form of private equity where investors provide capital to early-stage, high-potential startups in exchange for an ownership stake
-- **Private credit vehicles**: Non-bank investment funds/private investors that provide debt financing (loans) directly to companies. These serve as an alternative to traditional bank loans or public bond markets.
-- **Unlisted equity**: Shares in a company that are not traded on a public stock exchange. These assets are often "illiquid," meaning they cannot be easily or quickly converted to cash.  
-
 **Analysis: The "Financial Wrinkle"**  
 **Context**: “Many large, growing and influential companies are off-limits to retail investors.”
 
@@ -40,7 +32,7 @@ Today, companies are staying private much longer. This creates two primary issue
 * Goldman Sachs has reported its best quarterly earnings in five years despite AI-inspired stock routs, the war in Iran and private credit. CEO David Solomon has successfully shifted the firm toward more "durable" revenue streams—like wealth management and private credit—convincing investors that the bank can turn market chaos into predictable, high-value profit.
 * Goldman reported its best quarterly earnings in five years on Monday, with stock-trading income that, at $5.3bn, beat its previous record by $1bn
 * SQL is used to analyze millions of trades to find where these spreads are fattest during "wonky" market moves
-## **16-04-2026 | it's time for private credit's speing cleaning**
+## **16-04-2026 | it's time for private credit's spring cleaning**
 * 
 ## **19-04-2026 | wealth advisors made more than $2bn from private capital fees**
 * wealth advisers banks and independent brokerages generated billions of dollars in fees. Service fees, which pays the adviser for managing and answering questions for the clients account. even though some wire houses charge heftily, they still have higher annual returns comparing to others. for example Blackstone’s BREIT and BCRED funds, along with peers like Blue Owl and Ares, show a clear performance gap where higher-commission share classes yield significantly lower net returns for investors.
