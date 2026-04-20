@@ -1,4 +1,4 @@
-### **week 2 | 06-04-2026 - 12-04-2026**
+### **week 2 | 08/04/2026 - 14/04/2026**
 * **overhauling:** major changes to laws governing banks, such as increase capital requirements or tighter supervision
 * **deposit insurance system:** financial safety mechanism from losing their money if a bank fails
 * **threshold:** specific monetary limit, when met or exceeded triggers a specific action
@@ -29,4 +29,7 @@
 * **private vehicles:**
 * **inflows:** total cash and cash equivalents entering a business during a specific period
 * **redemptions:** the repayment of a debt instrument (like a bond or debenture) or the repurchase of equity (like shares) 
-
+## **week 3 | 15/04/2026 -  21/04/2026**
+* **per capita:** used to calculate an average amount for each individual in a population (e.g., country, city) by dividing a total sum—such as income, GDP, or debt—by the total number of people
+* **sharp correction:** sudden, significant drop in asset prices (usually 10% or more) occurring quickly after a period of gains.
+* **e-merging markets:** developing nations with rapid industrialization, high growth potential, and expanding middle classes, yet  higher risk/volatility compared to developed economies
