@@ -1,17 +1,11 @@
-*10-03-26*
-
-**Robinhood brings private markets’ valuation problem to the masses**  
-**Analysis: The "Financial Wrinkle"**  
-**Context**: “Many large, growing and influential companies are off-limits to retail investors.”
-
-The "wrinkle" refers to a structural shift in how modern companies grow. In previous decades, high-growth companies (like Microsoft or Amazon) went public early, allowing the general public to benefit from their most explosive growth phases.  
-Today, companies are staying private much longer. This creates two primary issues for the retail investor:
-
-- **Access Disparity**: Massive value creation is happening within "Unlisted Equity" (e.g., SpaceX, Stripe). Since these are not public stocks, they are traditionally reserved for institutional investors and high-net-worth individuals, leaving the public "off-limits."
-- **The Valuation Gap**: In public markets, prices are set by constant trading. In private markets, valuations are infrequent and subjective. As apps like Robinhood attempt to offer these private assets to the public, investors face the risk of buying in at a price that may not reflect the actual underlying value, as there is no transparent "ticker" to verify it.
+## **10-03-26 | Robinhood brings private markets’ valuation problem to the masses**  
+*Modern companies are delaying IPOs to stay private longer, shifting their most explosive growth phases away from public markets and into unlisted equity. This creates an access disparity where high-value opportunities like SpaceX are reserved for elite investors, while the general public is left "off-limits." Furthermore, as platforms attempt to bridge this gap, retail investors face a valuation risk, potentially buying into opaque private assets without the price transparency of a traditional public exchange.
+## **11-03-2026 | SoftBanks bet on openai is starting to weigh**
+* things aren’t going well for SoftBank, a Japanese giant. They had invested in OpenAi, yet they’re faring poorly. Son seems to eagerly jump into new things, and it sometimes ends poorly. However oracle and other companies who connected with ChatGPT seem to not do well. SoftBank seems to be selling their own assets just to fund another connection
+* Last month, SoftBank agreed a $30bn investment in the ChatGPT maker’s $110bn latest funding round, boosting its total input to $64.6bn for a 13 per cent stake.
+* Since private companies (OpenAI, SpaceX) don't have a public ticker, analysts maintain private databases of "Last Known Valuations." SQL is used to compare these against internal benchmarks.
 ## **24-03-2026 | Uber fights to stay in the robotaxi race**
-* Alphabets waymo and Tesla provide a fleet of robocabs so will uber a human driver dominated company go obsolete? Waymo completes more than 400,000 weekly journeys and earlier this year they got 110 bn. Uber quickly responded by expanding a partnership with nvidia and agreed to invest in electric truck maker rivian and buy lots of electric suvs. Its stock is still trading higher than its three year average. Robotaxis will be more expensive and also gain the trust of customers. Until robotaxis reach mass adoption uber has time build its own operations and support companies like uk based wayve that makes software that can be adapted by carmakers. Uber could be valuable. 
-
+* Alphabets waymo and Tesla provide a fleet of robocabs so will uber a human driver dominated company go obsolete? Waymo completes more than 400,000 weekly journeys and earlier this year they got 110 bn. Uber quickly responded by expanding a partnership with nvidia and agreed to invest in electric truck maker rivian and buy lots of electric suvs. Its stock is still trading higher than its three year average. Until robotaxis reach mass adoption uber has time build its own operations and support companies like uk based wayve that makes software that can be adapted by carmakers. 
 ## **29-03-2026 | Price is now the main ingredient in the office lunch slop bowl**  
 * Prices on food is increasing to balance the increasing costs of ingredients and labour. Fast food companies only seems to be surviving from loyalty or indifference.
 * reported a 13 per cent drop in quarterly footfall, year on year.
