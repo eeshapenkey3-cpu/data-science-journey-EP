@@ -36,3 +36,7 @@
 * Korea and Taiwan rose to the top as the biggest beneficiaries of the global AI boom, from semiconductors made by TSMC, Hynix and Samsung. However this extreme, rapid outperformance often creates unsustainable valuation bubbles, leading to significant reversals once momentum fades. This markets are again having a moment, and after the AI craze, the spotlights on these nations will fade.
 * when a country outperforms  its equity index by more than 150% over 2 years, a sharp correction is highly probable in the following 2.
 * As AI demand drives massive gains in tech stocks like TSMC and SK Hynix, SQL is used to track if stock prices are outstripping fundamental earnings. 
+## 21-04-2026 | Jeff Bezo's AI labnears $38bn valuation in funding deal**
+* Jeff Bezos is close to a $10bn fundraising deal from investors at a $38bn valuation for his lab, which is focused on AI that can understand the physical world and transform engineering and manufacturing. JP Morgan and Black Rock are to invest Project Prometheus.
+* the agreement had an initial $6.2bn raised in November but has been extended because of demand, the people added
+* Engineers use SQL to extract raw sensor data from industrial databases, transform it into a usable format, and load it into "Data Lakes."
