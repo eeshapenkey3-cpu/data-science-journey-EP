@@ -34,3 +34,7 @@
 * **sharp correction:** sudden, significant drop in asset prices (usually 10% or more) occurring quickly after a period of gains.
 * **e-merging markets:** developing nations with rapid industrialization, high growth potential, and expanding middle classes, yet  higher risk/volatility compared to developed economies
 * **Revenue Divergence:**
+* **first-quarter revenue growth:**
+* **investors wiped off market value:**
+* **modest market valuation:**
+* **market:**
