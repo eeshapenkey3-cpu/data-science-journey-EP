@@ -40,3 +40,5 @@
 * Jeff Bezos is close to a $10bn fundraising deal from investors at a $38bn valuation for his lab, which is focused on AI that can understand the physical world and transform engineering and manufacturing. JP Morgan and Black Rock are to invest Project Prometheus.
 * the agreement had an initial $6.2bn raised in November but has been extended because of demand, the people added
 * Engineers use SQL to extract raw sensor data from industrial databases, transform it into a usable format, and load it into "Data Lakes."
+## **22-04-2026 | hermès bumps up against luxury's scarcity paradox**
+* 
