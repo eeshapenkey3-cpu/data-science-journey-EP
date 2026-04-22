@@ -33,3 +33,4 @@
 * **per capita:** used to calculate an average amount for each individual in a population (e.g., country, city) by dividing a total sum—such as income, GDP, or debt—by the total number of people
 * **sharp correction:** sudden, significant drop in asset prices (usually 10% or more) occurring quickly after a period of gains.
 * **e-merging markets:** developing nations with rapid industrialization, high growth potential, and expanding middle classes, yet  higher risk/volatility compared to developed economies
+* **Revenue Divergence:**
