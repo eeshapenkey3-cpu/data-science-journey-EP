@@ -41,4 +41,6 @@
 * the agreement had an initial $6.2bn raised in November but has been extended because of demand, the people added
 * Engineers use SQL to extract raw sensor data from industrial databases, transform it into a usable format, and load it into "Data Lakes."
 ## **22-04-2026 | hermès bumps up against luxury's scarcity paradox**
-* 
+* Investors wiped €15bn off Hermès’ market value after a rare revenue miss, signaling that its expansion into lower-priced accessories has left it vulnerable to broader economic cooling. The brand's legendary leather goods are showing signs of "wear," with slowing growth and falling resale premiums suggesting it may no longer dictate market terms as effectively as smaller, ultra-exclusive rivals. Faced with a choice between risky fashion-forward pivots or staying classic, Hermès will likely maintain its traditional identity, even if it means accepting a more modest market valuation.
+* investors wiped more than 8 per cent, or €15bn, off its market value after it reported first-quarter revenue growth that was roughly 2 percentage points lower than analysts expected.
+* SQL can be used to identify Revenue Divergence
