@@ -38,3 +38,8 @@
 * **investors wiped off market value:**
 * **modest market valuation:**
 * **market:**
+24-04-2026
+* **investor confidence:**
+* **manufacturing turnaround:**
+* **writedown of goodwill:**
+* 
