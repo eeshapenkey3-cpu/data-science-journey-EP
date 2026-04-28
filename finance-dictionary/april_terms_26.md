@@ -42,4 +42,7 @@
 * **investor confidence:** level of trust and optimism investors have in the economy or specific companies, influencing their willingness to spend money on stocks, bonds, or projects.
 * **manufacturing turnaround:** a planned, temporary stop of production to perform major maintenance, repairs, upgrades, or safety inspections that cannot be done while machines are running.
 * **writedown of goodwill:**
-
+* **recession:**
+* **British banks, on average, already trade at a discount to European peers:**
+* **profitability:**
+* **tax surcharge:**
