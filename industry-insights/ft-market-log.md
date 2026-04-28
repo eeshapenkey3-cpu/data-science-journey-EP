@@ -45,6 +45,5 @@
 * investors wiped more than 8 per cent, or €15bn, off its market value after it reported first-quarter revenue growth that was roughly 2 percentage points lower than analysts expected.
 * SQL can be used to identify Revenue Divergence
 ## **28-04-2026 | Why bank taxes might be back on the table in the UK**
-*
-*
-*
+* High energy costs and war-related debts are forcing the UK government to look for new ways to raise money. Banks are in a weak position because high interest rates make it harder for them to support the economy as promised. Since banks are profiting from these high rates, they face a growing political risk of new taxes or "windfall" levies.
+* 
