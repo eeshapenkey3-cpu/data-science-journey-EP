@@ -33,13 +33,13 @@
 * **per capita:** used to calculate an average amount for each individual in a population (e.g., country, city) by dividing a total sum—such as income, GDP, or debt—by the total number of people
 * **sharp correction:** sudden, significant drop in asset prices (usually 10% or more) occurring quickly after a period of gains.
 * **e-merging markets:** developing nations with rapid industrialization, high growth potential, and expanding middle classes, yet  higher risk/volatility compared to developed economies
-* **Revenue Divergence:**
-* **first-quarter revenue growth:**
+* **Revenue Divergence:** richer, more organized nations are collecting significantly more revenue per person than poorer nations, and this gap is getting wider over time
+* **first-quarter revenue growth:** measure of how much a company’s sales increased—or decreased—between January 1st and March 31st, compared to a past period
 * **investors wiped off market value:**
-* **modest market valuation:**
-* **market:**
-24-04-2026
-* **investor confidence:**
-* **manufacturing turnaround:**
+* **modest market valuation:** means a company, asset, or item is valued at a relatively low, reasonable, or conservative price compared to its potential, its peers, or past expectations
+* **market:** any place, physical or virtual, where buyers and sellers meet to exchange goods, services, or information
+## **week 4 | 22/04/2026 - 30/04/2026**
+* **investor confidence:** level of trust and optimism investors have in the economy or specific companies, influencing their willingness to spend money on stocks, bonds, or projects.
+* **manufacturing turnaround:** a planned, temporary stop of production to perform major maintenance, repairs, upgrades, or safety inspections that cannot be done while machines are running.
 * **writedown of goodwill:**
-* 
+
