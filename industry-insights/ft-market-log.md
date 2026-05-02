@@ -46,4 +46,9 @@
 * SQL can be used to identify Revenue Divergence
 ## **28-04-2026 | Why bank taxes might be back on the table in the UK**
 * High energy costs and war-related debts are forcing the UK government to look for new ways to raise money. Banks are in a weak position because high interest rates make it harder for them to support the economy as promised. Since banks are profiting from these high rates, they face a growing political risk of new taxes or "windfall" levies.
-* 
+* if rate rises from 3% to 8%, it will cut profits at NatWest and Lloyds by 6% because they only do business in one country. Barclays and HSBC won't be hurt as much because they make money all over the world
+* To determine which banks are at risk, SQL could be used to group revenue by country
+## **02-05-2026 | Meta stock might look cheap if it weren’t for Mark Zuckerberg **
+* For Mark Zuckerberg, when it comes to developing new products, making a profit doesn’t come second: it comes fourth. Most of Meta's revenue comes from selling ads on its platforms. However investors are worried because ad sales are cyclical, but Meta's spends vastly on AI, possibly increasing debt. If his AI investments grows ad sales faster than market rate, then it offsets debt and explains why Meta trades at a lower price-to-earnings.
+* Analysts forecast that revenue growth will slip below 20 per cent by 2028, according to LSEG.
+* Java provides the high-speed infrastructure to handle billions of ad sales while managing the data pipelines that power AI growth. It acts as the "financial engine," calculating whether AI-driven revenue is growing fast enough to offset Meta's massive debt and explain its current market valuation.
