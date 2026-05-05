@@ -52,3 +52,7 @@
 * For Mark Zuckerberg, when it comes to developing new products, making a profit doesn’t come second: it comes fourth. Most of Meta's revenue comes from selling ads on its platforms. However investors are worried because ad sales are cyclical, but Meta's spends vastly on AI, possibly increasing debt. If his AI investments grows ad sales faster than market rate, then it offsets debt and explains why Meta trades at a lower price-to-earnings.
 * Analysts forecast that revenue growth will slip below 20 per cent by 2028, according to LSEG.
 * Java provides the high-speed infrastructure to handle billions of ad sales while managing the data pipelines that power AI growth.
+## **05-05-2026 | The land of milk and no money: UK farmers are in a fix**
+* dairy prices are falling due to a glut, yet the costs of feed, fertilisers and general food prices are rising. Given milk can't be stored flexibly, and there are higher costs for fuel and packaging. Farmers either dial down on feeds or herds, and smaller farms are falling.
+* In the US, larger dairy herds will yield a projected 253bn pounds of milk this year, about 4 per cent more than in 2024
+* java can be used for predictive demand analysis, using real-time data and smart algorithms to predict exactly how much milk is needed and stop surplus
