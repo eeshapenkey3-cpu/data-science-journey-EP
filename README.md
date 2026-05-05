@@ -1,7 +1,7 @@
 # My Professional Development Journey 
 
 ## Current Goal
-Applying for a Technology & Transformation Summer Internship at Deloitte.
+Applying for a Technology & Transformation Summer Internship at JP Morgan
 
 ##  Key Progress
 - **SQL Skills:** Completed S&P 500 ETL pipeline.
@@ -25,4 +25,4 @@ Applying for a Technology & Transformation Summer Internship at Deloitte.
   ## External Profiles
 
 * **LeetCode Profile:** [View my daily streak](https://leetcode.com/u/eesha3/)
-* **LinkedIn:** [Connect with me]()
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/eesha-penkey-681a123bb/)
