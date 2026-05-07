@@ -56,3 +56,6 @@
 * dairy prices are falling due to a glut, yet the costs of feed, fertilisers and general food prices are rising. Given milk can't be stored flexibly, and there are higher costs for fuel and packaging. Farmers either dial down on feeds or herds, and smaller farms are falling.
 * In the US, larger dairy herds will yield a projected 253bn pounds of milk this year, about 4 per cent more than in 2024
 * java can be used for predictive demand analysis, using real-time data and smart algorithms to predict exactly how much milk is needed and stop surplus
+## **06-05-2026 | Public and private markets vie for gains from AI job disruption**
+* Long Lake is acquiring GBTG at a 65% premium, betting that AI can eliminate the traditional trade-off between growth and profit by replacing human engineers with automated agents. However the extra profit expected from using Artificial Intelligence (the "AI dividend") might be completely canceled out by the high costs of buying and integrating the company.
+* 
