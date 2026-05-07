@@ -59,3 +59,4 @@
 ## **06-05-2026 | Public and private markets vie for gains from AI job disruption**
 * Long Lake is acquiring GBTG at a 65% premium, betting that AI can eliminate the traditional trade-off between growth and profit by replacing human engineers with automated agents. However the extra profit expected from using Artificial Intelligence (the "AI dividend") might be completely canceled out by the high costs of buying and integrating the company.
 * 
+## **08-05-2026 | **
