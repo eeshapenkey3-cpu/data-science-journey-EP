@@ -59,4 +59,7 @@
 ## **06-05-2026 | Public and private markets vie for gains from AI job disruption**
 * Long Lake is acquiring GBTG at a 65% premium, betting that AI can eliminate the traditional trade-off between growth and profit by replacing human engineers with automated agents. However the extra profit expected from using Artificial Intelligence (the "AI dividend") might be completely canceled out by the high costs of buying and integrating the company.
 * 
-## **08-05-2026 | **
+## **17-05-2026 | Burberry tried to be Louis Vuitton; it should aim lower**
+* Facing a massive valuation gap and shrinking sales from a failed push into ultra-luxury, Burberry is lowering prices and abandoning avant-garde designs. Under a new CEO, Burberry is emulating its mid-market competitor Coach by returning to accessible pricing and core classics (like trench coats and check patterns) to stabilize margins and stop heavy discounting. While "affordable luxury" trades at lower valuation multiples than top-tier luxury, this shift positions Burberry for a projected 50% valuation upside for shareholders.
+*  Its rarefied look failed to sell: revenue fell, and heavy discounting pushed gross margins as low as 62 per cent in the last two quarters of that year.
+* java acts as the engine behind the website’s checkout and pricing system. It can calculate taxes, currencies, and regional prices for thousands of shoppers simultaneously without crashing, ensuring the brand doesn't accidentally overcharge or resort to messy, unplanned discounts.
