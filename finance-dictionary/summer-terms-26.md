@@ -4,3 +4,11 @@
 * **venture capital firm:** a group of professional investors who provide funding to young, high-risk startups with massive growth potential
 * **blank-cheque merger:** a way for a private company to go public without going through a traditional Initial Public Offering (IPO)
 * **IPO:** where a private company raises capital by offering shares to the public for the first time, transitioning from private ownership to a publicly traded company
+## **week 3 | 15/05/2026 - 21/05/2026**
+* **valuing a stock:**
+* **valuation:**
+* **IPO:**
+* **turning a third of revenue into earnings:**
+* **trades at the same 30-times earnings:**
+* **capture 3 per cent of total market:**
+* **whispered market capitalisation:**
