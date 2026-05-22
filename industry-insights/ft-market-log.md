@@ -64,4 +64,5 @@
 *  Its rarefied look failed to sell: revenue fell, and heavy discounting pushed gross margins as low as 62 per cent in the last two quarters of that year.
 * java acts as the engine behind the website’s checkout and pricing system. It can calculate taxes, currencies, and regional prices for thousands of shoppers simultaneously without crashing, ensuring the brand doesn't accidentally overcharge or resort to messy, unplanned discounts.
 ## **21-05-2026 | How to make sense of SpaceX’s nonsensical valuation**
-* 
+* investors have to assume SpaceX's speculative yet large valuation, with its 3 sectors varying in profits. Despite analysts using prediction models, estimates could range widely.
+* spaceX only needs to capture 3 per cent of that total market to achieve its whispered market capitalisation.
