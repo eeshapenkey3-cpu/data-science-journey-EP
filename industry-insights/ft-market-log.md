@@ -64,5 +64,8 @@
 *  Its rarefied look failed to sell: revenue fell, and heavy discounting pushed gross margins as low as 62 per cent in the last two quarters of that year.
 * java acts as the engine behind the website’s checkout and pricing system. It can calculate taxes, currencies, and regional prices for thousands of shoppers simultaneously without crashing, ensuring the brand doesn't accidentally overcharge or resort to messy, unplanned discounts.
 ## **21-05-2026 | How to make sense of SpaceX’s nonsensical valuation**
-* investors have to assume SpaceX's speculative yet large valuation, with its 3 sectors varying in profits. Despite analysts using prediction models, estimates could range widely.
+* investors have to assume SpaceX's speculative yet large valuation, with its 3 sectors varying in profits. Because traditional financial models yield widely varying estimates, an alternative is to work backward from its valuation using Musk’s long-term targets.spaceX targeted audience is software services competing against giants like anthropic and openai.
 * spaceX only needs to capture 3 per cent of that total market to achieve its whispered market capitalisation.
+*
+## **23-05-2026 | Get ready to take sides in Big Tech’s giant IPO bake-off**
+* A massive flood of up to $180 billion in new stock could soon hit the market as tech giants SpaceX, OpenAI, and Anthropic all prepare for colossal initial public offerings. The three companies are heading toward a major showdown as they all target the exact same multi-trillion-dollar "enterprise applications" software market to justify their valuations. Investors must choose between OpenAI's massive computing power, Anthropic's superior revenue-generating software, or SpaceX's reliable "plan B" fallback profits from Starlink satellite internet.
