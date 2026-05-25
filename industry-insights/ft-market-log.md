@@ -68,4 +68,6 @@
 * spaceX only needs to capture 3 per cent of that total market to achieve its whispered market capitalisation.
 *
 ## **23-05-2026 | Get ready to take sides in Big Tech’s giant IPO bake-off**
-* A massive flood of up to $180 billion in new stock could soon hit the market as tech giants SpaceX, OpenAI, and Anthropic all prepare for colossal initial public offerings. The three companies are heading toward a major showdown as they all target the exact same multi-trillion-dollar "enterprise applications" software market to justify their valuations. Investors must choose between OpenAI's massive computing power, Anthropic's superior revenue-generating software, or SpaceX's reliable "plan B" fallback profits from Starlink satellite internet.
+* A massive flood of up to $180 billion in new stock could soon hit the market as tech giants SpaceX, OpenAI, and Anthropic all prepare for colossal IPOs. The three companies are heading toward a major showdown as they all target the exact same multi-trillion-dollar "enterprise applications" software market to justify their valuations. Investors must choose between OpenAI's massive computing power, Anthropic's superior revenue-generating software, or SpaceX's reliable "plan B" fallback profits from Starlink satellite internet.
+## **25-05-2026 | It’s not just SpaceX: Big Tech is dominating bond markets too**
+* 
