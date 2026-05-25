@@ -14,3 +14,6 @@
 * **trades at the same 30-times earnings:**
 * **capture 3 per cent of total market:**
 * **whispered market capitalisation:**
+## **week 4 | 22/05/2026 - 31/05/2026**
+* **reverse Yankees:**
+* 
