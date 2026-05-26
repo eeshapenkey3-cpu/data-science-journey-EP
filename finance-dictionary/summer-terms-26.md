@@ -16,4 +16,5 @@
 * **whispered market capitalisation:**
 ## **week 4 | 22/05/2026 - 31/05/2026**
 * **reverse Yankees:**
-* 
+* **active management:** professionals who hand-pick unique investments
+* **alternative assets:** investing in things outside the standard stock and bond markets
