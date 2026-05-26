@@ -11,10 +11,11 @@
 * **turning a third of revenue into earnings:** revenue is the total money business brings, but earnings is the money after taxes + fees are paid. For every $100, $33 is the total profit after deductions.
 * **revenue:** total money a business earns; top line
 * **earnings:** profits a company keeps after subtracting all operating expenses, taxes, and costs from its total revenue
-* **trades at the same 30-times earnings:**
-* **capture 3 per cent of total market:**
-* **whispered market capitalisation:**
+* **trades at the same 30-times earnings:** investors are willing to pay a premium price of $30 today for every $1 of current profit the company makes, because they believe that $1 of profit will grow into something much bigger tomorrow
+* **capture 3 per cent of total market:** To capture 3% of a total market means a business wins $3 out of every $100 spent in the entire industry. If the total market is worth $100 million, a 3% share means the business makes $3 million.
+* **whispered market capitalisation:** While an "official" market cap is based on hard public numbers, a whispered market cap is an unofficial, rumored value passed around by industry insiders before the real numbers are locked in.
 ## **week 4 | 22/05/2026 - 31/05/2026**
-* **reverse Yankees:**
+* **reverse Yankees:** Reverse Yankee bonds; when an American company borrows money in Europe rather than in the U.S
 * **active management:** professionals who hand-pick unique investments
 * **alternative assets:** investing in things outside the standard stock and bond markets
+* **tranche:** a financial "slice" or portion of a larger pool of money, assets, or investments
