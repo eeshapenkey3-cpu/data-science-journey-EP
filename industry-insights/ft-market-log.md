@@ -66,10 +66,13 @@
 ## **21-05-2026 | How to make sense of SpaceX’s nonsensical valuation**
 * investors have to assume SpaceX's speculative yet large valuation, with its 3 sectors varying in profits. Because traditional financial models yield widely varying estimates, an alternative is to work backward from its valuation using Musk’s long-term targets.spaceX targeted audience is software services competing against giants like anthropic and openai.
 * spaceX only needs to capture 3 per cent of that total market to achieve its whispered market capitalisation.
-*
+* java is used to create heavy simulation models like monte carlo simulations to work backwards.
 ## **23-05-2026 | Get ready to take sides in Big Tech’s giant IPO bake-off**
 * A massive flood of up to $180 billion in new stock could soon hit the market as tech giants SpaceX, OpenAI, and Anthropic all prepare for colossal IPOs. The three companies are heading toward a major showdown as they all target the exact same multi-trillion-dollar "enterprise applications" software market to justify their valuations. Investors must choose between OpenAI's massive computing power, Anthropic's superior revenue-generating software, or SpaceX's reliable "plan B" fallback profits from Starlink satellite internet.
+* java is used to build the secure APIs, manage the global databases, handle high-volume user traffic, and integrate the tech into the corporate world.
 ## **25-05-2026 | It’s not just SpaceX: Big Tech is dominating bond markets too**
 * Major US technology companies are increasingly dominating non-dollar bond markets to fund massive capital expenditure plans, presenting unique challenges for credit investors. While individual tech bonds carry minimal default risk, growing tech interlinkages mean global multi-asset portfolios are far less diversified than they appear. This rising market concentration enhances the value of active management and alternative assets for investors seeking genuine, benchmark-independent diversification.
+* Java is used to build real-time risk aggregation engines. Because Java natively handles heavy, multi-threaded computations concurrently (especially with modern updates like Project Loom's virtual threads), it can scan millions of multi-asset portfolios simultaneously.
 ## **26-05-2026 | How AI is forcing McKinsey and its peers to rethink pricing**
-* 
+* McKinsey is under pressure from clients to pay for performance instead of a flat rate during billable hours. Charging for results delivered rather than work done makes revenue less reliable, so the firm gives partner's equity instead. AI like OpenAi charge subscriptions given the appeal of recurring, predictable revenue. In addition to unpredictable real-world risks, the rise of AI will undoubtedly drive an increase in this pay-for-performance pricing model.
+* java reads data, securely logs the exact moment a milestone is met, and tracks whether an outcome actually happened
