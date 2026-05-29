@@ -76,3 +76,5 @@
 ## **26-05-2026 | How AI is forcing McKinsey and its peers to rethink pricing**
 * McKinsey is under pressure from clients to pay for performance instead of a flat rate during billable hours. Charging for results delivered rather than work done makes revenue less reliable, so the firm gives partner's equity instead. AI like OpenAi charge subscriptions given the appeal of recurring, predictable revenue. In addition to unpredictable real-world risks, the rise of AI will undoubtedly drive an increase in this pay-for-performance pricing model.
 * java reads data, securely logs the exact moment a milestone is met, and tracks whether an outcome actually happened
+## **29-05-2026 | Superdrug IPO would put lipstick on a drab UK retail sector**
+* 
