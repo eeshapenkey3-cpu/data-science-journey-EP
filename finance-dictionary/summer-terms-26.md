@@ -19,11 +19,17 @@
 * **active management:** professionals who hand-pick unique investments
 * **alternative assets:** investing in things outside the standard stock and bond markets
 * **tranche:** a financial "slice" or portion of a larger pool of money, assets, or investments
-*  **remuneration:** everything an employee or executive gets for their work—not just their base salary, but also bonuses, commission, pension contributions, and company perks
-*  **tie its fees to outcomes achieved:** Instead of charging a flat rate or an hourly fee, a business only gets paid (or gets paid a large bonus) if they deliver specific, proven results
-*  **shunt a bigger share of partners’ pay into equity:** Paying company partners in company stock (ownership) instead of cash.
-*  **husband more cash:** to save, conserve, or carefully manage cash to prepare for tough times or a major future investment.
-*  **afforded by bulk-buying credits for these tasks upfront:** Getting a discount by paying in advance for a massive volume of services.
-*  **procurement:** The corporate department or process responsible for buying goods, services, or materials that a business needs to operate.
-*  **supply chains:** The entire network of steps, people, and businesses required to turn raw materials into a finished product and deliver it to the customer.
-*  **workaround:** A clever, temporary bypass or "hack" used to overcome a problem or glitch without actually fixing the root cause.
+* **remuneration:** everything an employee or executive gets for their work—not just their base salary, but also bonuses, commission, pension contributions, and company perks
+* **tie its fees to outcomes achieved:** Instead of charging a flat rate or an hourly fee, a business only gets paid (or gets paid a large bonus) if they deliver specific, proven results
+* **shunt a bigger share of partners’ pay into equity:** Paying company partners in company stock (ownership) instead of cash.
+* **husband more cash:** to save, conserve, or carefully manage cash to prepare for tough times or a major future investment.
+* **afforded by bulk-buying credits for these tasks upfront:** Getting a discount by paying in advance for a massive volume of services.
+* **procurement:** The corporate department or process responsible for buying goods, services, or materials that a business needs to operate.
+* **supply chains:** The entire network of steps, people, and businesses required to turn raw materials into a finished product and deliver it to the customer.
+* **workaround:** A clever, temporary bypass or "hack" used to overcome a problem or glitch without actually fixing the root cause.
+* **dual listing:**
+* **annual rate:**
+* **18 times multiple of forward earnings:**
+* **standalone entity:**
+* **listing:**
+* 
