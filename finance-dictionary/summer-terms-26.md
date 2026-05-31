@@ -32,4 +32,4 @@
 * **18 times multiple of forward earnings:**
 * **standalone entity:**
 * **listing:**
-* 
+* **acquisitions:** 
