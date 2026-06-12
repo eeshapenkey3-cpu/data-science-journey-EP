@@ -84,3 +84,5 @@
 ## **06-06-2026 | Nasdaq tumbles 4% as shares in chip and memory groups sink**
 * A stronger-than-expected US jobs report made investors worry that the Federal Reserve will raise interest rates, triggering a massive 4.2% drop in tech stocks. The most hyped companies took the biggest hit, with chipmaker Nvidia falling 6% and memory/semiconductor sectors plunging 10% as investors panicked and moved money into safe consumer stocks. This sudden market crash happens at a crucial moment, right as Google and Meta plan giant share sales and SpaceX prepares for its historic $86 billion listing next week.
 * As millions of investors rush to sell chip stocks like Sandisk and Intel, stock exchanges flood trading desks with billions of price updates per second. Java frameworks like Apache Kafka handle these massive, real-time data streams concurrently without lagging or dropping data packets.
+## **12-06-2026 | New York Knicks’ winning streak should rub off on its owner too**
+*
