@@ -33,3 +33,12 @@
 * **standalone entity:**
 * **listing:**
 * **acquisitions:** 
+# **june**
+## **week 2 | 08/06/2026 - 14/06/2026**
+* **cash flow break-even:**
+* **share-price inflation:**
+* **traded enterprise value:**
+* **acquisitions:**
+* **justify a valuation:**
+* **conglomerate discount:**
+* **all-out sale:**
