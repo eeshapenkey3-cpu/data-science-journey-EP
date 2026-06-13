@@ -42,3 +42,10 @@
 * **justify a valuation:**
 * **conglomerate discount:**
 * **all-out sale:**
+* **oversubscribed shares:**
+* **netting anchor investors:**
+* **capped:**
+* **prospectus:**
+* **unprecedented valuation:**
+* **marquee:**
+* **beneficiary:**
