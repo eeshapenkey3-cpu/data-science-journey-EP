@@ -40,7 +40,7 @@
 * **traded enterprise value:**
 * **acquisitions:**
 * **justify a valuation:**
-* **conglomerate discount:**
+* **conglomerate discount:** A conglomerate discount is when the stock market values a large, diversified company at less than the combined worth of its individual businesses. In simple terms, it is the "complexity penalty" that occurs when the sum of the parts is greater than the whole.
 * **all-out sale:**
 * **oversubscribed shares:**
 * **netting anchor investors:**
